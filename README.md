@@ -1,24 +1,26 @@
 # DeepThought-Assignment
 DeepThought AI Business Analyst Assignment
 
-Candidate Name: Sai Keerthi Gade
+Candidate: Sai Keerthi Gade
 
 This repository contains my submission for the DeepThought AI Business Analyst (Ecommerce) Assignment.
+
 ## Repository Structure
 
-- Learnability Section
-- Task 1: Campaign Viability Analysis
-- Task 2: Dynamic Profitability Model
-- Task 3: Operational Scenario
-- Hand Drawn Mind Map
-- AI Thinking Process Sketch
+### Learnability
+Understanding of:
+- ROAS
+- ACOS
+- TACOS
 
-## Tools Used
+### Task 1
+Campaign Viability Analysis for GlowNest.
 
-- Google Sheets
-- Microsoft Excel
-- Amazon Ads Research
-- AI-assisted learning with independent verification
+### Task 2
+Dynamic Amazon Advertising Profitability Model.
+
+### Task 3
+Operational Analysis and Strategic Thinking.
 
 ## Submission Date
 
