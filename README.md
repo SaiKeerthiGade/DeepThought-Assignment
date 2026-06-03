@@ -1,5 +1,9 @@
 # DeepThought-Assignment
 DeepThought AI Business Analyst Assignment
+
+Candidate Name: Sai Keerthi Gade
+
+This repository contains my submission for the DeepThought AI Business Analyst (Ecommerce) Assignment.
 ## Repository Structure
 
 - Learnability Section
