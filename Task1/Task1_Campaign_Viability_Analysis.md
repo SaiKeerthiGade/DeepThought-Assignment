@@ -217,6 +217,7 @@ Total Profit
 
 = ₹11,58,000
 
+
 ### Conclusion
 
 Profit increases from ₹10,34,000 to ₹11,58,000.
