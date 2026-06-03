@@ -12,6 +12,7 @@ Monthly Ad Spend	300000
 Units Sold via Ads	1500
 Organic Units Sold	2000
 Fixed Costs	150000
+
 ⚙️ OUTPUT FORMULAS USED
 1. Gross Margin per Unit
 SP - COGS = 800 - 280 = 520
@@ -36,6 +37,7 @@ Ad Spend ÷ Ad Revenue
 Ad Spend ÷ Total Revenue
 = 300000 ÷ 2800000
 = 10.71%
+
 📈 SCENARIO ANALYSIS
 Scenario 1: SP increases → ₹950
 Profit increases due to higher margin
@@ -49,6 +51,7 @@ Business becomes healthier
 Scenario 4: Price drops to ₹700
 Margin compression occurs
 ACOS tolerance reduces
+
 📌 KEY INSIGHT
 
 This model shows that:
@@ -56,10 +59,9 @@ This model shows that:
 Profitability depends more on unit economics than ad spend
 TACOS is a better long-term health indicator than ACOS
 Organic growth reduces dependency on ads
+
 📎 GOOGLE SHEET LINK
 
 https://docs.google.com/spreadsheets/d/1q8LsIW249sfNMAHrZtF4U7L8LIoiFlkFNbq8LTh84J0/edit?usp=sharing
 
-👉 Paste your Google Sheet link here:
 
-[Your Google Sheet Link]
