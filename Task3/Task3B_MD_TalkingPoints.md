@@ -43,6 +43,7 @@ Even with better traffic, conversion will not improve significantly unless listi
 
 ---
 
+
 ## Questions for MD
 1. Is priority short-term ROAS improvement or long-term revenue growth?
 2. Are you open to investing in creative assets (images/videos)?
