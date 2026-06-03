@@ -38,19 +38,24 @@ Ad Spend ÷ Total Revenue
 = 300000 ÷ 2800000
 = 10.71%
 
+
 📈 SCENARIO ANALYSIS
 Scenario 1: SP increases → ₹950
 Profit increases due to higher margin
 TACOS decreases (better efficiency)
+
 Scenario 2: COGS increases by 20%
 Net margin decreases
 Break-even ad spend reduces
+
 Scenario 3: Organic growth increases to 3500 units
 TACOS drops significantly
 Business becomes healthier
+
 Scenario 4: Price drops to ₹700
 Margin compression occurs
 ACOS tolerance reduces
+
 
 📌 KEY INSIGHT
 
